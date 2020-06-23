@@ -1,0 +1,9 @@
+{
+        "operation" : "setupComplete", 
+        "data" : { 
+            "wssSessionToken" : "amzn1.ffs.wss-wifi-session-token.a0249dfd-4e7f-4167-bcb8-b6f1626ecdef", 
+            "wssSessionTokenSignature" : "MEUCIQDIVZP5b6hoVU7UTKVmG8LDB4BJMCgFyxf/pFeB5K74HwIgFmU+yCqqSobTGhT3TKC2XLfTAYn3K19qg7zVM0uXZWQ=",
+            "alexaEndpoint" : "", 
+            "deviceIdentifier" :"device-12322"
+        }
+  }
