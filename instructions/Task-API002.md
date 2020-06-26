@@ -29,7 +29,7 @@ To run the end to end demo, please follow the following:
     like the below:
 
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    ./FrustrationFreeSetupLinuxWorkshop -u -u https://{API-Id}.execute-api.us-east-1.amazonaws.com/prod/provision 
+    ./FrustrationFreeSetupLinuxWorkshop -u https://{API-Id}.execute-api.us-east-1.amazonaws.com/prod/provision 
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 5.  Expected Result: A Notification from Alexa that says "Your First Bulb is
